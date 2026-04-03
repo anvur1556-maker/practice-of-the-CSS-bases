@@ -1,0 +1,25 @@
+<! Doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Color Vocab Project</title>
+        <link rel="stylesheet" href="./style.css" />
+
+    </head>
+    <body>
+        <h1>Books</h1>
+        <h2 style="color:blueviolet">Best books according to ChatGpt:</h2>
+        <ul>
+        <h2 class="book-title" id="book1">100 years of solitude by gabriel garcía márquez</h2>
+        <img src="./images.1/one hundred years of solitude.jpg" />
+        <h2 class="book-title" id="book2">the priory of the orange tree by samantha shannon</h2>
+        <img src="./images.1/priory of the orange tree.jfif" />
+    
+        <h2 class="book-title" id="book3">a man called ove by fredrik backman</h2>
+        <img src="./images.1/a man called ove.jfif"  />
+    
+        <h2 class="book-title" id="book4">451 degrees fahrenheit </h2>
+        <img src="./images.1/451 degrees fahrenheit.jfif" />
+        </ul>
+    </body>
+</html
